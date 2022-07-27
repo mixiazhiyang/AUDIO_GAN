@@ -1,0 +1,5 @@
+# cuda 11.6
+pip install https://mirror.sjtu.edu.cn/pytorch-wheels/cu116/torch-1.12.0%2Bcu116-cp39-cp39-linux_x86_64.whl https://mirror.sjtu.edu.cn/pytorch-wheels/cu116/torchaudio-0.12.0%2Bcu116-cp39-cp39-linux_x86_64.whl https://mirror.sjtu.edu.cn/pytorch-wheels/cu116/torchvision-0.13.0%2Bcu116-cp39-cp39-linux_x86_64.whl pandas librosa matplotlib tensorboardX
+# other cuda versions can be find in https://download.pytorch.org/whl/torch_stable.html 
+# mirror in China: https://mirrors.sjtug.sjtu.edu.cn/docs/pytorch-wheels
+# https://download.pytorch.org/whl/ -->https://mirrors.sjtug.sjtu.edu.cn/docs/pytorch-wheels/
